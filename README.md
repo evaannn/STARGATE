@@ -2,7 +2,7 @@
 <img src="https://drive.lulzb.in/file.php?q=638086fb551ab.png" height=200 width=200>
 <h1>STARGATE</h1>
 <p>
-STARGATE is a high-fidelity open-source Python Obfuscator that uses invalid characters to subsitute readable code with random unreadable Unicode text.
+STARGATE is a high-fidelity open-source Python Obfuscator that uses invalid characters to subsitute readable code with invalid Unicode ZWNJ characters.
 </p>
 </div>
 
