@@ -25,4 +25,4 @@ As STARGATE is open source, you are welcome to reverse engineer and deobfuscate 
 
 
 > **Warning**
-> The GNAA holds no liability for any harm done with or involving STARGATE.
+> The GNAA holds no liability for any harm done with or involving STARGATE. The GNAA is simply here to distribute software.
