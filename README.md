@@ -21,7 +21,7 @@ STARGATE is a high-fidelity open-source Python Obfuscator that uses invalid char
 
 
 <h2> Hacking </h2>
-As STARGATE is open source, you are welcome to reverse engineer and deobfuscate it. 
+As STARGATE is open source, you are welcome to reverse engineer and deobfuscate STARGATE.
 
 
 > **Warning**
